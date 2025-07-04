@@ -45,4 +45,6 @@ To effectively navigate Nexus, think about the following precautions:
 
 This guide is solely for educational use. The information that is provided is for the purpose of increasing understanding of darknet operations. We do not endorse or promote any illegal activities.
 
-Update: The link is operational once more.
+
+
+Update:  04.07.2025
