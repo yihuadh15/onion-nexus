@@ -47,4 +47,6 @@ This guide is solely for educational use. The information that is provided is fo
 
 
 
-Update:  04.07.2025
+
+
+Update: Fixed broken links in API reference guide
