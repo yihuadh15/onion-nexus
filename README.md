@@ -53,4 +53,6 @@ This guide is solely for educational use. The information that is provided is fo
 
 
 
-Update:  07/18/2025
+
+
+Update: url is operational
