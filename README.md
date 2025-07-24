@@ -55,4 +55,6 @@ This guide is solely for educational use. The information that is provided is fo
 
 
 
-Update: url is operational
+
+
+Update: link is accessible again
